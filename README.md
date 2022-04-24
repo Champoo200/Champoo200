@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hasseluzumaki@gmail.com**
 
-- ⚡ Fun fact **i love bad horror movies**
+- ⚡ Fun fact **I love bad horror movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
