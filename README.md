@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassel Yabin Aguilar Chamu</h1>
-<h3 align="center">I am a programming enthusiast who dedicates his free time to development Data science is my passion!!</h3>
+<h3 align="center">I am a programming enthusiast who dedicates his free time to development, Data science is my passion!!</h3>
 
 - 🌱 I’m currently learning **data science and Js**
 
